@@ -1,0 +1,5 @@
+# robots.txt for http://ticket.isaw.nyu.edu
+# Christopher Warner 
+
+User-agent: *
+Disallow: /
